@@ -25,3 +25,8 @@ Modules:
      After complete one match,points table will be change.
      After finished the league,semi final and final matches will come.
      Finally,winner will be anounced for the final match winner.
+
+Pojo classes:
+    1.Fixtures
+    2.Points
+    
