@@ -26,7 +26,7 @@ Modules:<br>
      Finally,winner will be anounced for the final match winner.<br><br>
 
 Pojo classes:<br>
-    1.Fixtures,
+    1.Fixtures,<br>
     2.Points.<br><br>
     Video explanation link:https://youtu.be/2YcbpJIWBnk
     
